@@ -10,6 +10,14 @@ import java.awt.Graphics;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
+/**
+ *Java basic: HomeWork10
+ *
+ @author Muzaffar Eshonqulov
+ @todo 10.10.2022
+ @date 13.10.2022
+ *
+ */
 
 public class HomeWork10 extends JFrame {
     final private Color[] colors ={Color.red, Color.green,Color.magenta, Color.orange,Color.gray,Color.blue};
